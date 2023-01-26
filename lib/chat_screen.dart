@@ -1,6 +1,4 @@
 import 'dart:async';
-// api key
-//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
 import 'package:chat_gpt/three_dots.dart';
 import 'package:chat_gpt_sdk/chat_gpt_sdk.dart';
 import 'package:flutter/material.dart';
